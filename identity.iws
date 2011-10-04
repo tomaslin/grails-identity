@@ -85,7 +85,7 @@
       <file leaf-file-name="TestController.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/apps/testShiro/grails-app/controllers/testshiro/TestController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="71" selection-start="72" selection-end="72" vertical-scroll-proportion="0.24549918">
+            <state line="10" column="20" selection-start="72" selection-end="72" vertical-scroll-proportion="0.24549918">
               <folding />
             </state>
           </provider>
@@ -565,7 +565,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/apps/testShiro/grails-app/controllers/testshiro/TestController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="71" selection-start="72" selection-end="72" vertical-scroll-proportion="0.24549918">
+        <state line="10" column="20" selection-start="72" selection-end="72" vertical-scroll-proportion="0.24549918">
           <folding />
         </state>
       </provider>

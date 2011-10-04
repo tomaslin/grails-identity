@@ -1,0 +1,10 @@
+The identity plugin provides methods in your controllers to uniquely identify visitors on your site. 
+
+As new visitors arrive to your site, they are provided with an unique identifier ( generated via Java's UUID mechanism ). This identifier is stored in their session object and their browser cookies. You are able to provide your own closure to overwrite the default behaviour.
+
+This plugin should be useful to other plugin developers who wish to have a unique way of identifying an user. It came about when I noticed that I needed to keep track of users before sign in in my own plugins.
+
+Configuration Parameters
+
+The plugin allows you to set the following parameters in your Config.groovy file
+
